@@ -10,8 +10,6 @@ width: 400px;
 margin-right: 10px;}
 
 nav {position: static;
-width: 900px;
-top: 90px;
 float: right;
 font-family: 'Fjalla One', sans-serif;
 font-size: x-large;
@@ -28,7 +26,6 @@ nav table {
      inset 0 0 1px rgba(255, 255, 255, 0.6);}
 
 article {position: static;
-top: -180px;
 clear: both;
 background: linear-gradient(90deg, 
      rgba(255, 255, 255, 0) 0%, 
@@ -65,7 +62,6 @@ font-variant: small-caps;}
 
 footer {
 position: relative;
-top: -150px;
 font-family: 'Open Sans Condensed', sans-serif;
     background: linear-gradient(90deg, 
      rgba(255, 255, 255, 0) 0%, 
