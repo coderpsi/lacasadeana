@@ -2,15 +2,7 @@ body {position: relative;
 background: url("https://coderpsi.github.io/lacasadeana/fondo.png");
 }
 
-#logo {position: relative;
-float: left;
-top: -95px;
-left: -25px;
-width: 400px;
-margin-right: 10px;}
-
 nav {position: static;
-float: right;
 font-family: 'Fjalla One', sans-serif;
 font-size: x-large;
 font-variant: small-caps;
@@ -24,6 +16,15 @@ nav table {
      rgba(255, 255, 255, 0) 100%);
     box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
      inset 0 0 1px rgba(255, 255, 255, 0.6);}
+
+a:active{
+    color: negro;}
+
+a:visit{
+    color: negro;}
+
+a:hover{
+    color: violet;}
 
 article {position: static;
 clear: both;
