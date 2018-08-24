@@ -2,20 +2,18 @@ body {position: relative;
 background: url("https://coderpsi.github.io/lacasadeana/fondo.png");
 }
 
-nav {position: static;
+nav {background: black;
+    position: static;
 font-family: 'Fjalla One', sans-serif;
 font-size: x-large;
 font-variant: small-caps;
 }
 
-nav table {
-    background: linear-gradient(90deg, 
-     rgba(255, 255, 255, 0) 0%, 
-     rgba(255, 255, 255, 0.8) 25%, 
-     rgba(255, 255, 255, 0.8) 75%, 
-     rgba(255, 255, 255, 0) 100%);
-    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
-     inset 0 0 1px rgba(255, 255, 255, 0.6);}
+article {
+background-color: black;}
+
+
+
 
 a:active{
     color: negro;}
@@ -25,16 +23,6 @@ a:visit{
 
 a:hover{
     color: violet;}
-
-article {position: static;
-clear: both;
-background: linear-gradient(90deg, 
-     rgba(255, 255, 255, 0) 0%, 
-     rgba(255, 255, 255, 0.8) 25%, 
-     rgba(255, 255, 255, 0.8) 75%, 
-     rgba(255, 255, 255, 0) 100%);
-    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
-     inset 0 0 1px rgba(255, 255, 255, 0.6);}
 
 h1 {
 font-family: 'Alegreya Sans SC', sans-serif;
@@ -64,10 +52,4 @@ font-variant: small-caps;}
 footer {
 position: relative;
 font-family: 'Open Sans Condensed', sans-serif;
-    background: linear-gradient(90deg, 
-     rgba(255, 255, 255, 0) 0%, 
-     rgba(255, 255, 255, 0.8) 25%, 
-     rgba(255, 255, 255, 0.8) 75%, 
-     rgba(255, 255, 255, 0) 100%);
-    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
-     inset 0 0 1px rgba(255, 255, 255, 0.6);}
+    background-color: black;}
