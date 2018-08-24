@@ -1,20 +1,12 @@
 body {position: relative;
     background-image: url("https://coderpsi.github.io/lacasadeana/fondo.png"), url("https://coderpsi.github.io/lacasadeana/fondo1.jpg");
-    background-position: center, center top;
-}
+    }
 
-nav {background: black;
-    position: static;
+nav {position: static;
 font-family: 'Fjalla One', sans-serif;
 font-size: x-large;
 font-variant: small-caps;
 }
-
-article {
-background-color: black;}
-
-
-
 
 a:active{
     color: negro;}
@@ -53,4 +45,4 @@ font-variant: small-caps;}
 footer {
 position: relative;
 font-family: 'Open Sans Condensed', sans-serif;
-    background-color: black;}
+}
