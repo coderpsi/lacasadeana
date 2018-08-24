@@ -1,5 +1,6 @@
 body {position: relative;
-background: url("https://coderpsi.github.io/lacasadeana/fondo.png");
+    background-image: url("https://coderpsi.github.io/lacasadeana/fondo.png"), url("https://coderpsi.github.io/lacasadeana/fondo1.jpg");
+    background-position: center, center top;
 }
 
 nav {background: black;
